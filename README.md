@@ -1,2 +1,2 @@
-# Pokjer_timer
+# Poker_timer
 App for set-up the level, blind, tournement and poker party
